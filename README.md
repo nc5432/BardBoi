@@ -1,5 +1,7 @@
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
 
+# NOTE: This is not the main JMusicBot. This has been customized for my personal discord server. Most people should use the original, found [here](https://github.com/jagrosh/MusicBot)
+
 # JMusicBot
 
 [![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://github.com/jagrosh/MusicBot/releases/latest)
